@@ -43,7 +43,7 @@
   "block.tconstruct.clear_tinted_glass": "透明有色玻璃",
 
   "block.tconstruct.obsidian_pane": "黑曜石窗格",
-  "block.tconstruct.gold_bars": "金条",
+  "block.tconstruct.gold_bars": "金栏杆",
 
   "block.tconstruct.gold_platform": "金台",
   "block.tconstruct.iron_platform": "铁台",
@@ -282,7 +282,7 @@
 
   "_comment": "Binding Gold Casts",
 
-  "pattern.tconstruct.tool_binding": "工具绑结",
+  "pattern.tconstruct.tool_binding": "绑定结",
   "pattern.tconstruct.round_plate": "圆盘",
   "pattern.tconstruct.large_plate": "大板",
 
