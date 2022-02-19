@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:draconic",
   "text": [
     {
-      "text": "It's time to get a§ohead§r of the competition!"
+      "text": "是时候抢先一步了！"
     }
   ],
   "effects": [
-    "Adds another ability slot",
-    "Single Level",
-    "Does not require an ability slot"
+    "+1技能槽",
+    "只有一级",
+    "不需要技能槽"
   ]
 }

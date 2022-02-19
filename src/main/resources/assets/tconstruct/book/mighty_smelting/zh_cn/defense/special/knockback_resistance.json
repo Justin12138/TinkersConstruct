@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:knockback_resistance",
   "text": [
     {
-      "text": "Here I stand, not even a tank will move me."
+      "text": "我就站在这里，即使是坦克也无法移动我(除了你妈叫你吃饭)。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Decreases knockback recieved",
-    "Single level",
-    "Requires 1 defense slot"
+    "减少受到的击退",
+    "只有1级",
+    "需要1个防御槽"
   ]
 }

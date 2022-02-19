@@ -1,11 +1,11 @@
 {
-  "title": "Weapon Abilities",
+  "title": "武器技能",
   "text": [
     {
-      "text": "With these abilities perhaps you could forge the strongest weapon of all. Of course what weapon you choose is up to you."
+      "text": "有了这些能力，你或许可以打造出最强大的武器。当然，你选择什么武器取决于你。"
     },
     {
-      "text": "These upgrades can provide your weapon with extra effects or boost your overall rate of attack.",
+      "text": "这些升级可以为您的武器提供额外的效果或提高您的整体攻击效率。",
       "paragraph": true
     }
   ]

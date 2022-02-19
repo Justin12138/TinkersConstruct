@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:reach",
   "text": [
     {
-      "text": "Reach for the stars! Or the top shelf... Or the medium height shelf if you are short..."
+      "text": "伸手摘星！或者使用最上面的架子……或者如果你矮的话就用中等高度的架子……"
     }
   ],
   "effects": [
-    "Increases reach distance for blocks and mining",
-    "Multiple levels, each level allows you to reach further",
-    "Requires 1 Ability Slot per level"
+    "增加方块和采矿的到达距离",
+    "多个级别，每个级别都可以让您更进一步",
+    "每级需要一个技能槽"
   ]
 }

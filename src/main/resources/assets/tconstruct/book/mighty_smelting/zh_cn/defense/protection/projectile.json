@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:projectile_protection",
   "text": [
     {
-      "text": "It will not protect your knees from arrows, forcing you to give up adventuring and become a guard."
+      "text": "它不会保护你的膝盖免受箭的伤害，迫使你放弃冒险并成为一名守卫。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Decreases damages from projectiles",
-    "Can apply levels incrementally",
-    "Requires 1 defense slot"
+    "减少弹丸造成的伤害",
+    "可以逐步应用级别",
+    "需要1个防御槽"
   ]
 }

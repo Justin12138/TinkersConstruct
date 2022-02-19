@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:zoom",
   "text": [
     {
-      "text": "I spy with my little eyes, something off in the vast distance."
+      "text": "我的小眼睛近视了，有些地方看不清。"
     }
   ],
   "effects": [
-    "Allows you to zoom in",
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "开启你的缩放能力",
+    "最多1级",
+    "需要一个技能槽"
   ]
 }

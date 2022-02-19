@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:firestarter",
   "text": [
     {
-      "text": "Everything changed when the firestarter modifier attacked."
+      "text": "当火种修饰攻击时，一切都改变了。"
     }
   ],
   "effects": [
-    "Interact to start fires",
-    "Single Level",
-    "Requires 1 Ability Slot",
-    "Using on flint and bronze increases radius, requiring 1 Upgrade slot"
+    "使用交互来点火",
+    "只有一级",
+    "需要一个技能槽",
+    "在青铜点火石上使用会增加半径，需要1个升级槽"
   ]
 }

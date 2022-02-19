@@ -2,16 +2,16 @@
   "modifier_id": "tconstruct:dragonborn",
   "text": [
     {
-      "text": "Dovah ko krif dilos ahrk qah."
+      "text": "阿巴阿巴阿巴阿巴"
     },
     {
-      "text": "Tinker, You can't read dragon tongue? Nonsense what do they teach these days. That says, Dragons that fly are deadly and protected.", "paragraph": true
+      "text": "工匠，你不会读龙舌？胡说八道他们这些天教的什么。也就是说，会飞的龙是致命的并且受到保护。", "paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Increases protection and attack damage when airborn",
-    "Multiple levels, each level further increases protection and damage",
-    "Requires 1 defense slot"
+    "空中时增加保护和攻击伤害",
+    "多个级别，每个级别进一步增加保护和伤害",
+    "需要1个防御槽"
   ]
 }

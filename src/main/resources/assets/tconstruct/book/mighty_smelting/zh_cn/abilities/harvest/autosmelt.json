@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:autosmelt",
   "text": [
     {
-      "text": "The fires of hell are useful for turning up the heat."
+      "text": "地狱之火有助于加热。"
     }
   ],
   "effects": [
-    "Drops from all blocks are smelted if possible",
-    "Single Level",
-    "Requires 1 Ability Slot"
+    "如果可能的话，所有方块的掉落物都会被熔炼",
+    "只有一级",
+    "需要一个技能槽"
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "title": "Seared Chute",
+  "title": "焦黑物品通道",
   "item": "tconstruct:seared_chute",
   "text": [
     {
-      "text": "The seared chute is your way to input/output items in and out of the smeltery. Best placed somewhere easily accessible by a hopper.",
+      "text": "焦黑物品通道是您将输出物品输入和输出冶炼厂的方式。最好放置在料斗容易到达的地方。",
       "paragraph": true
     }
 	]

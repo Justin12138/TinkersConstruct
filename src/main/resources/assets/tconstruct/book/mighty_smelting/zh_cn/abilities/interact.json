@@ -1,11 +1,11 @@
 {
-  "title": "Interaction Abilities",
+  "title": "交互技能",
   "text": [
     {
-      "text": "These abilites all affect your interactions."
+      "text": "这些技能都会影响你的互动。"
     },
     {
-      "text": "Due to their nature some interaction abilities will conflict.",
+      "text": "由于它们的性质，一些交互技能会发生冲突。",
       "paragraph": true
     }
   ]

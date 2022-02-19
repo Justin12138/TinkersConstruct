@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:gilded",
   "text": [
     {
-      "text": "It's a 2 for 1 special!"
+      "text": "这两个换这一个"
     }
   ],
   "effects": [
-    "Trades 1 ability slot for 2 upgrade slots",
-    "Multiple levels",
-    "Requires 1 Ability Slot"
+    "1个技能槽替换2个升级槽",
+    "多级别",
+    "需要一个技能槽"
   ]
 }

@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:fire_protection",
   "text": [
     {
-      "text": "Through the fire and the flames."
+      "text": "穿过火和火焰。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Decreases fire damage and burn time",
-    "Multiple levels, each level further decreases damage and burn time.",
-    "Requires 1 defense slot"
+    "减少火灾伤害和燃烧时间",
+    "多个级别，每个级别进一步减少伤害和燃烧时间。",
+    "需要1个防御槽"
   ]
 }

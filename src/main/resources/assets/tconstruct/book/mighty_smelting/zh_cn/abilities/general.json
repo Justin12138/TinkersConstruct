@@ -1,11 +1,11 @@
 {
-  "title": "General Abilities",
+  "title": "通用技能",
   "text": [
     {
-      "text": "Abilities are a special type of modifier that can drastically alter how your tool performs. These require an ability slot specifically, which are rarer than upgrade slots, but stronger per slot."
+      "text": "技能是一种特殊类型的修饰符，可以极大地改变你的工具的性能。这些需要专门的能力槽，这比升级槽少，但每个槽更强。"
     },
     {
-      "text": "These abilities will enhance your tool all around!",
+      "text": "这些技能将全面增强您的工具！",
       "paragraph": true
     }
   ]

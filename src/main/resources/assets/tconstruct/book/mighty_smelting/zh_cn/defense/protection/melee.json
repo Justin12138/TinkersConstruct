@@ -2,14 +2,14 @@
   "modifier_id": "tconstruct:melee_protection",
   "text": [
     {
-      "text": "Mobile punching bag."
+      "text": "出气筒。"
     }
    
   ],
   "more_text_space": true,
   "effects": [
-    "Decreases damage from swords, unarmed attacks, and more",
-    "Multiple levels, each level further decreases damage.",
-    "Requires 1 defense slot"
+    "减少剑、徒手攻击等造成的伤害",
+    "多个级别，每个级别进一步降低伤害。",
+    "需要 1 个防御槽"
   ]
 }

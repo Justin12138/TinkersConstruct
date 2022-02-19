@@ -1,13 +1,13 @@
 {
-  "title": "Seared Drain",
+  "title": "焦黑排液孔",
   "item": "tconstruct:seared_drain",
   "text": [
     {
-      "text": "The drain is your input/output of the smeltery when it comes to fluids. You can use faucets or pipes from your favorite mod on the drain to pour out fluids. Buckets, copper cans, and channels may be used on the drain to input or take out fluids.",
+      "text": "就流体而言，排液孔是冶炼厂的输入输出。您可以在排液孔上使用您最喜欢的浇筑口或管道来倒出液体。排液孔上可以使用桶、铜罐和通道来输入或取出液体。",
       "paragraph": true
     },
 	{
-      "text": "The fluid rendered in the middle of the drain will be the next one to pour out.",
+      "text": "在排液孔中间呈现的流体将是下一个倒出的流体。",
       "paragraph": true
     }
 	]

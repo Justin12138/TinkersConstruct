@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:expanded",
   "text": [
     {
-      "text": "Bigger is always better right?"
+      "text": "大就是好对吧？"
     }
   ],
   "effects": [
-    "Increases mining width & height",
-	"Range is different on every tool",
-    "Multiple levels, each level increases width & height by one",
-    "Requires 1 Ability slot per level"
+    "增加长和宽",
+	  "每个工具的范围不一样",
+    "多级别的，每个等级增加宽或长e",
+    "每级需要一个技能槽"
   ]
 }

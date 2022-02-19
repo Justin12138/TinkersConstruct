@@ -2,14 +2,14 @@
   "modifier_id": "tconstruct:snowdrift",
   "text": [
     {
-      "text": "Look at the snow golem. Isn't he so cool, leaving trails of snow? Don't you wish you could leave trails of snow too?"
+      "text": "看雪傀儡。他是不是很酷，留下了雪的痕迹？你不希望你也可以留下雪的痕迹吗？"
     }
   ],
   "effects": [
-    "Creates snow as you walk",
-    "Does not work in warm biomes",
-    "Area boosted by expanded",
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "走路时会留下雪迹",
+    "不适用于温暖的生物群系",
+    "可扩展面积",
+    "最多1级",
+    "需要一个技能槽"
   ]
 }

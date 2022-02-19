@@ -2,15 +2,15 @@
   "modifier_id": "tconstruct:glowing",
   "text": [
     {
-      "text": "That's a bright idea."
+      "text": "这是个好主意"
     }
 	
 	
   ],
   "effects": [
-    "Interact to place glows",
-	"Placing glows consumes durability, even if the tool has unbreaking",
-    "Single Level",
-    "Requires 1 Ability Slot"
+    "互动以放置发光",
+	  "放置发光会消耗耐久度，即使该工具具有耐久",
+    "只有一级",
+    "需要一个技能槽"
   ]
 }

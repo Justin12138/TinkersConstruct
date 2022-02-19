@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:frost_walker",
   "text": [
     {
-      "text": "Gain the ability to walk on water. Well, not exactly, but its pretty close."
+      "text": "获得在水上行走的能力。嗯，不完全是，但它非常接近。"
     }
   ],
   "effects": [
-    "Water freezes as you walk",
-    "Area boosted by expanded",
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "走路时水会结冰",
+    "可扩展面积",
+    "最多1级",
+    "需要一个技能槽"
   ]
 }

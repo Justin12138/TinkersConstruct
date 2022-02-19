@@ -140,10 +140,10 @@
   "item.tconstruct.manyullyn_ingot": "玛玉灵锭",
   "item.tconstruct.manyullyn_nugget": "玛玉灵粒",
 
-  "block.tconstruct.hepatizon_block": "肝素块",
+  "block.tconstruct.hepatizon_block": "钴铜合金块",
   "block.tconstruct.hepatizon_block.tooltip": "可用作信标基地",
-  "item.tconstruct.hepatizon_ingot": "肝素锭",
-  "item.tconstruct.hepatizon_nugget": "肝素粒",
+  "item.tconstruct.hepatizon_ingot": "钴铜合金锭",
+  "item.tconstruct.hepatizon_nugget": "钴铜合金粒",
 
   "block.tconstruct.queens_slime_block": "女王史莱姆块",
   "block.tconstruct.queens_slime_block.tooltip": "可用作信标基地",
@@ -176,12 +176,12 @@
   "item.tconstruct.tinkers_gadgetry.tooltip": "史莱姆的使用书\n作者：Melvin",
 
   "item.tconstruct.puny_smelting": "匠魂宝典：初级冶炼",
-  "item.tconstruct.puny_smelting.tooltip": "初学者冶炼和铸造指南\n作者:Thruul M'Gon",
+  "item.tconstruct.puny_smelting.tooltip": "初学者冶炼和铸造指南\n作者:特鲁尔·麦贡",
   "item.tconstruct.mighty_smelting": "匠魂宝典：中级冶炼",
-  "item.tconstruct.mighty_smelting.tooltip": "让你精通熔炼、铸造和合金化的教科书\n作者：Thruul M'Gon",
+  "item.tconstruct.mighty_smelting.tooltip": "让你精通熔炼、铸造和合金化的教科书\n作者：特鲁尔·麦贡",
 
   "item.tconstruct.fantastic_foundry": "匠魂宝典：高级冶炼",
-  "item.tconstruct.fantastic_foundry.tooltip": "关于熔炼金属最热门的技术书籍\n作者： Nemea",
+  "item.tconstruct.fantastic_foundry.tooltip": "关于熔炼金属最热门的技术书籍\n作者：Nemea",
 
   "item.tconstruct.sky_slime_ball": "天空粘液球",
   "item.tconstruct.ender_slime_ball": "末影粘液球",
@@ -439,10 +439,10 @@
   "fluid.tconstruct.flowing_sky_slime": "流动的天空粘液",
   "item.tconstruct.sky_slime_bucket": "天空粘液桶",
 
-  "block.tconstruct.magma_fluid": "熔融岩浆膏",
-  "fluid.tconstruct.magma": "熔融岩浆膏",
-  "fluid.tconstruct.flowing_magma": "流动的熔融岩浆膏",
-  "item.tconstruct.magma_bucket": "熔融岩浆膏桶",
+  "block.tconstruct.magma_fluid": "熔融岩浆块",
+  "fluid.tconstruct.magma": "熔融岩浆块",
+  "fluid.tconstruct.flowing_magma": "流动的熔融岩浆块",
+  "item.tconstruct.magma_bucket": "熔融岩浆块桶",
 
   "block.tconstruct.ender_slime_fluid": "末影粘液",
   "fluid.tconstruct.ender_slime": "末影粘液",
@@ -572,10 +572,10 @@
   "fluid.tconstruct.flowing_molten_manyullyn": "流动的熔融玛玉灵",
   "item.tconstruct.molten_manyullyn_bucket": "熔融玛玉灵桶",
 
-  "block.tconstruct.molten_hepatizon_fluid": "熔融肝素",
-  "fluid.tconstruct.molten_hepatizon": "熔融肝素",
-  "fluid.tconstruct.flowing_molten_hepatizon": "流动的熔融肝素",
-  "item.tconstruct.molten_hepatizon_bucket": "熔融肝素桶",
+  "block.tconstruct.molten_hepatizon_fluid": "熔融钴铜合金",
+  "fluid.tconstruct.molten_hepatizon": "熔融钴铜合金",
+  "fluid.tconstruct.flowing_molten_hepatizon": "流动的熔融钴铜合金",
+  "item.tconstruct.molten_hepatizon_bucket": "熔融钴铜合金桶",
 
   "block.tconstruct.molten_queens_slime_fluid": "熔融女王史莱姆",
   "fluid.tconstruct.molten_queens_slime": "熔融女王史莱姆",
@@ -661,9 +661,9 @@
   "fluid.tconstruct.flowing_molten_brass": "流动的熔融黄铜",
   "item.tconstruct.molten_brass_bucket": "熔融黄铜桶",
 
-  "block.tconstruct.molten_electrum_fluid": "熔融琥珀金金",
-  "fluid.tconstruct.molten_electrum": "熔融琥珀金金",
-  "fluid.tconstruct.flowing_molten_electrum": "流动的熔融琥珀金金",
+  "block.tconstruct.molten_electrum_fluid": "熔融琥珀金",
+  "fluid.tconstruct.molten_electrum": "熔融琥珀金",
+  "fluid.tconstruct.flowing_molten_electrum": "流动的熔融琥珀金",
   "item.tconstruct.molten_electrum_bucket": "熔融琥珀金桶",
 
   "block.tconstruct.molten_invar_fluid": "熔融殷钢",
@@ -679,7 +679,7 @@
   "block.tconstruct.molten_pewter_fluid": "熔融锡合金",
   "fluid.tconstruct.molten_pewter": "熔融锡合金",
   "fluid.tconstruct.flowing_molten_pewter": "流动的熔融锡合金",
-  "item.tconstruct.molten_pewter_bucket": "熔融锡桶",
+  "item.tconstruct.molten_pewter_bucket": "熔融锡合金桶",
 
   "block.tconstruct.molten_steel_fluid": "熔融钢",
   "fluid.tconstruct.molten_steel": "熔融钢",
@@ -754,7 +754,7 @@
   "item.tconstruct.ichor_slime_sling": "灵液粘液弹弓",
   "item.tconstruct.ichor_slime_sling.tooltip": "充能,指向一个生物,让它飞起来！",
 
-  "item.tconstruct.piggy_backpack": "小猪背包",
+  "item.tconstruct.piggy_backpack": "背驮式背包",
   "item.tconstruct.piggy_backpack.tooltip": "对生物使用来捡起它",
   "effect.tconstruct.carry": "携带",
 
@@ -815,7 +815,7 @@
 
   "item.tconstruct.travelers_helmet": "旅行者护目镜",
   "item.tconstruct.travelers_chestplate": "旅行者背心",
-  "item.tconstruct.travelers_leggings": "旅行者裤",
+  "item.tconstruct.travelers_leggings": "旅行者护腿",
   "item.tconstruct.travelers_boots": "旅行者靴子",
 
   "item.tconstruct.plate_helmet": "板甲头盔",
@@ -869,8 +869,8 @@
   "item.tconstruct.vein_hammer.description": "矿脉锤是一种广泛的采矿工具。它可以收获许多相同类型的相连方块,非常适合开采矿石。",
 
   "item.tconstruct.mattock.description": "锹 是一种多功能农具。它对原木、泥土、沙子、砾石和植物都很有效。\n千万不要自掘坟墓！",
-  "item.tconstruct.pickadze.description": "挖土稿 是一种多功能的采矿工具。它对岩石、泥土、沙子和砾石有效,但不够锋利,无法像许多矿石一样开采更坚硬的石块。",
-  "item.tconstruct.excavator.description": "开掘铲 是一种广泛的挖掘工具。它可以在大范围内挖掘大面积的土壤和雪。\n地形改造！",
+  "item.tconstruct.pickadze.description": "挖土稿是一种多功能的采矿工具。它对岩石、泥土、沙子和砾石有效,但不够锋利,无法像许多矿石一样开采更坚硬的石块。",
+  "item.tconstruct.excavator.description": "开掘铲是一种广泛的挖掘工具。它可以在大范围内挖掘大面积的土壤和雪。\n地形改造！",
 
   "item.tconstruct.hand_axe.description": "手斧可以砍木头,也可以很短地加工树叶。它也是一种有效的武器。\n砍砍！",
   "item.tconstruct.broad_axe.description": "宽斧一挥就砍倒小树,也能快速砍伐大树。它是一种强大的重型武器。\n木材！",
@@ -991,7 +991,7 @@
   "block.tconstruct.seared_faucet": "焦黑浇注口",
   "block.tconstruct.seared_faucet.tooltip": "从冶炼炉和罐中排出液体",
   "block.tconstruct.seared_channel": "焦黑浇注道",
-  "block.tconstruct.seared_channel.tooltip": "分配从上方水龙头流出的液体。",
+  "block.tconstruct.seared_channel.tooltip": "分配从上方浇筑口流出的液体。",
 
   "block.tconstruct.seared_basin": "焦黑铸造盆",
   "block.tconstruct.seared_basin.tooltip": "使用冶炼炉的熔融金属铸造物品",
@@ -1066,14 +1066,14 @@
   "block.tconstruct.scorched_lantern.tooltip": "理想的装饰,可容纳 100mb 液体。\n破碎时保留液体。",
 
   "block.tconstruct.scorched_faucet": "焦赫浇注口",
-  "block.tconstruct.scorched_faucet.tooltip": "从铸造厂和罐子中排出液体",
+  "block.tconstruct.scorched_faucet.tooltip": "从铸造厂和储罐中排出液体",
   "block.tconstruct.scorched_basin": "焦赫铸造盆",
   "block.tconstruct.scorched_basin.tooltip": "使用铸造厂的熔融金属铸造物品",
   "block.tconstruct.scorched_table": "焦赫铸造台",
   "block.tconstruct.scorched_table.tooltip": "使用铸造厂的熔融金属铸造物品",
 
   "block.tconstruct.scorched_channel": "焦赫浇注道",
-  "block.tconstruct.scorched_channel.tooltip": "分配从上方水龙头倒出的液体。",
+  "block.tconstruct.scorched_channel.tooltip": "分配从上方浇筑口倒出的液体。",
 
   "block.tconstruct.scorched_alloyer": "焦赫合金罐",
   "block.tconstruct.scorched_alloyer.tooltip": "简单的合金罐。\n放置在燃料罐或加热器上方，可直接提供材料。",
@@ -1414,7 +1414,7 @@
   "material.tconstruct.manyullyn.flavor": "大多数工匠永远不会正确发音的金属。也称为新型材料。",
   "material.tconstruct.manyullyn.encyclopedia": "连续8次击中后每级获得+2伤害",
 
-  "material.tconstruct.hepatizon": "肝素",
+  "material.tconstruct.hepatizon": "钴铜合金",
   "material.tconstruct.hepatizon.flavor": "煮沸,捣碎,放入炖菜中。",
   "material.tconstruct.hepatizon.encyclopedia": "连续开采32个区块后,每级提高25%的开采速度",
 
@@ -1565,7 +1565,7 @@
   "modifier.tconstruct.reinforced": "加强型",
   "modifier.tconstruct.reinforced.flavor": "等级强化",
   "modifier.tconstruct.reinforced.description": "强化工具的等级",
-  "modifier.tconstruct.overforced": "强迫症",
+  "modifier.tconstruct.overforced": "用力过猛",
   "modifier.tconstruct.overforced.flavor": "受末地史莱姆保护！",
   "modifier.tconstruct.overforced.description": "工具使用粘液加固,允许更多的超粘液容量",
   "modifier.tconstruct.emerald": "绿宝石",
@@ -1911,7 +1911,7 @@
   "modifier.tconstruct.melting": "熔化",
   "modifier.tconstruct.melting.flavor": "熔炉的威力！",
   "modifier.tconstruct.melting.description": "熔化被攻击的实体和掉落的物品！",
-  "modifier.tconstruct.tank": "罐子",
+  "modifier.tconstruct.tank": "储罐",
   "modifier.tconstruct.tank.filled": "罐:%s mb %s",
   "modifier.tconstruct.tank.capacity": "罐容量:%s mb",
   "modifier.tconstruct.tank.flavor": "越大越好！",
@@ -2168,7 +2168,7 @@
   "modifier.tconstruct.wither_skeleton_disguise.flavor": "1/3 的凋零之路",
   "modifier.tconstruct.wither_skeleton_disguise.description": "让你在其他凋灵骷髅面前看起来更像凋灵骷髅",
   "modifier.tconstruct.spider_disguise": "蜘蛛伪装",
-  "modifier.tconstruct.spider_disguise.flavor": "Ssssssssssssssss",
+  "modifier.tconstruct.spider_disguise.flavor": "嘶……",
   "modifier.tconstruct.spider_disguise.description": "让你在其他蜘蛛眼中更像一只蜘蛛",
   "modifier.tconstruct.cave_spider_disguise": "洞穴蜘蛛伪装",
   "modifier.tconstruct.cave_spider_disguise.flavor": "有毒",
@@ -2270,7 +2270,7 @@
   "stat.tconstruct.harvest_tier.minecraft.stone": "石头",
   "stat.tconstruct.harvest_tier.minecraft.iron": "铁",
   "stat.tconstruct.harvest_tier.minecraft.diamond": "钻石",
-  "stat.tconstruct.harvest_tier.minecraft.netherite": "下届合金",
+  "stat.tconstruct.harvest_tier.minecraft.netherite": "下界合金",
 
   "stat.tconstruct.slot.prefix.upgrades": "升级:",
   "stat.tconstruct.slot.prefix.abilities": "技能:",
@@ -2375,7 +2375,7 @@
   "subtitles.tconstruct.slime_sling": "史莱姆弹跳",
   "subtitles.tconstruct.slime_sling.teleport": "史莱姆弹弓传送",
   "subtitles.tconstruct.enderporting": "末影传送",
-  "subtitles.tconstruct.throw.throwball": "投掷球苍蝇",
+  "subtitles.tconstruct.throw.throwball": "投掷球",
   "subtitles.tconstruct.throw.shuriken": "手里剑",
 
   "subtitles.tconstruct.necrotic_heal": "生命枯竭",
@@ -2388,7 +2388,7 @@
   "subtitles.tconstruct.equip.travelers": "旅行者盔甲沙沙作响",
   "subtitles.tconstruct.equip.plate": "板甲铮铮",
 
-  "subtitles.tconstruct.block.earth_crystal.chime": "大地水晶编钟",
+  "subtitles.tconstruct.block.earth_crystal.chime": "大地水晶钟声",
   "subtitles.tconstruct.block.sky_crystal.chime": "天空水晶钟声",
   "subtitles.tconstruct.block.ichor_crystal.chime": "灵液水晶钟声",
   "subtitles.tconstruct.block.ender_crystal.chime": "末影水晶钟声",
@@ -2461,8 +2461,8 @@
   "jei.tconstruct.modifier_ingredient": "%s 修饰符",
 
   "jei.tconstruct.casting.basin": "铸造盆",
-  "jei.tconstruct.casting.table": "铸造表",
-  "jei.tconstruct.casting.cast_kept": "铸件可以在以后的配方中重复使用",
+  "jei.tconstruct.casting.table": "铸造台",
+  "jei.tconstruct.casting.cast_kept": "铸模可以在以后的配方中重复使用",
   "jei.tconstruct.casting.cast_consumed": "铸造时消耗铸造物品",
 
   "jei.tconstruct.molding.title": "成型",
@@ -2480,7 +2480,7 @@
   "jei.tconstruct.entity_melting.per_hearts": "每 %s 心伤害",
   "jei.tconstruct.entity_melting.per_heart": "每 1.0 心伤害",
 
-  "jei.tconstruct.alloy.title": "合成器",
+  "jei.tconstruct.alloy.title": "合金化",
 
   "jei.tconstruct.modifiers.title": "修饰符",
   "jei.tconstruct.modifiers.slot": "修改器需要 1 %s 槽才能应用",
@@ -2523,19 +2523,19 @@
   "advancements.tconstruct.smeltery.puny_smelting.title": "冶炼新兵",
   "advancements.tconstruct.smeltery.puny_smelting.description": "制作初级冶炼指南",
   "advancements.tconstruct.smeltery.melter.title": "基本熔炼",
-  "advancements.tconstruct.smeltery.melter.description": "使用熔炉、加热器或罐、浇注盆、浇注台和水龙头进行基本熔炼操作",
-  "advancements.tconstruct.smeltery.sand_casting.title": "沙铸",
-  "advancements.tconstruct.smeltery.sand_casting.description": "用沙子制作一个基本的一次性铸件",
-  "advancements.tconstruct.smeltery.gold_casting.title": "闪亮铸件",
-  "advancements.tconstruct.smeltery.gold_casting.description": "用黄金制作可重复使用的铸件",
-  "advancements.tconstruct.smeltery.cast_collector.title": "铸件收集器",
-  "advancements.tconstruct.smeltery.cast_collector.description": "收集每个金铸件之一",
+  "advancements.tconstruct.smeltery.melter.description": "使用熔炉、加热器或罐、浇注盆、浇注台和浇筑口进行基本熔炼操作",
+  "advancements.tconstruct.smeltery.sand_casting.title": "沙铸模",
+  "advancements.tconstruct.smeltery.sand_casting.description": "用沙子制作一个基本的一次性铸模",
+  "advancements.tconstruct.smeltery.gold_casting.title": "闪亮铸模",
+  "advancements.tconstruct.smeltery.gold_casting.description": "用黄金制作可重复使用的铸模",
+  "advancements.tconstruct.smeltery.cast_collector.title": "铸模收集器",
+  "advancements.tconstruct.smeltery.cast_collector.description": "收集每个金铸模之一",
   "advancements.tconstruct.smeltery.mighty_smelting.title": "冶炼专家",
   "advancements.tconstruct.smeltery.mighty_smelting.description": "制成指南中的冶炼炉,强大的冶炼",
   "advancements.tconstruct.smeltery.structure.title": "强大的冶炼炉",
-  "advancements.tconstruct.smeltery.structure.description": "通过铸造熔铜制作冶炼炉控制器,建造冶炼炉,然后打开冶炼炉的 UI界面",
+  "advancements.tconstruct.smeltery.structure.description": "通过铸造熔铜制作冶炼炉控制器,建造冶炼炉,然后打开冶炼炉的界面",
   "advancements.tconstruct.smeltery.tinkers_anvil.title": "高级工具制造",
-  "advancements.tconstruct.smeltery.tinkers_anvil.description": "用冶炼炉的合金制作工匠铁砧！",
+  "advancements.tconstruct.smeltery.tinkers_anvil.description": "用冶炼炉的合金制作匠魂铁砧！",
   "advancements.tconstruct.smeltery.tool_forge.title": "锻造工具",
   "advancements.tconstruct.smeltery.tool_forge.description": "锻造铁砧中广泛的工具之一",
   "advancements.tconstruct.smeltery.abilities.title": "技能大师",
@@ -2545,15 +2545,15 @@
   "advancements.tconstruct.foundry.fantastic_foundry.title": "下界冶炼",
   "advancements.tconstruct.foundry.fantastic_foundry.description": "梦幻铸造厂, 下界熔炼指南",
   "advancements.tconstruct.foundry.alloyer.title": "基本冶炼",
-  "advancements.tconstruct.foundry.alloyer.description": "使用冶炼机、燃料罐、一些锭罐、铸造台、铸造盆和水龙头创建基本的合金化",
+  "advancements.tconstruct.foundry.alloyer.description": "使用冶炼机、燃料罐、一些锭罐、铸造台、铸造盆和浇筑口创建基本的合金化",
   "advancements.tconstruct.foundry.structure.title": "神奇的铸造厂",
   "advancements.tconstruct.foundry.structure.description": "用合金、黑曜石制作铸造控制器,建造铸造厂,打开铸造厂 UI",
   "advancements.tconstruct.foundry.blaze.title": "炽热之血",
-  "advancements.tconstruct.foundry.blaze.description": "用炽热的鲜血装满罐子",
+  "advancements.tconstruct.foundry.blaze.description": "用炽热的鲜血装满储罐",
   "advancements.tconstruct.foundry.plate_armor.title": "钢甲",
   "advancements.tconstruct.foundry.plate_armor.description": "制作全套钢甲",
-  "advancements.tconstruct.foundry.manyullyn_lanterns.title": "富足",
-  "advancements.tconstruct.foundry.manyullyn_lanterns.description": "制造一大堆熔炉或焦黑罐子,里面装满了熔融的玛玉灵",
+  "advancements.tconstruct.foundry.manyullyn_lanterns.title": "富的流油",
+  "advancements.tconstruct.foundry.manyullyn_lanterns.description": "制造一大堆熔炉或焦黑储罐,里面装满了熔融的玛玉灵",
   "advancements.tconstruct.foundry.encyclopedia.title": "百科全书",
   "advancements.tconstruct.foundry.encyclopedia.description": "用您从所有书籍中获得的知识制作材料百科全书",
 

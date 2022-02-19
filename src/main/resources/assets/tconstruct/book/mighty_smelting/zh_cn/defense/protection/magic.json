@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:magic_protection",
   "text": [
     {
-      "text": "You're not a very good wizard Harry if you have to use this. Use more deflection spells."
+      "text": "如果你不得不使用这个，你就不是一个很好的巫师哈利。使用更多的偏转法术。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Decreases magic damage",
-    "Multiple levels, each level further decreases magic damage",
-    "Requires 1 defense slot"
+    "减少魔法伤害",
+    "多个级别，每个级别进一步降低魔法伤害",
+    "需要1个防御槽"
   ]
 }
