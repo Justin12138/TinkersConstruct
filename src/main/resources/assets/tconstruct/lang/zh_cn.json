@@ -1777,7 +1777,7 @@
   "modifier.tconstruct.strength.flavor": "你能感受到流经你的力量吗？",
   "modifier.tconstruct.strength.description": "让你的武器更强大",
   "modifier.tconstruct.unarmed": "徒手攻击",
-  "modifier.tconstruct.unarmed.flavor": "僧侣选项",
+  "modifier.tconstruct.unarmed.flavor": "习武之人",
   "modifier.tconstruct.unarmed.description": "使胸甲修饰符提高徒手攻击伤害",
   "recipe.tconstruct.modifier.unarmed": "需要先添加非武装修饰语",
   "modifier.tconstruct.wings": "翅膀",
@@ -1924,9 +1924,9 @@
   "modifier.tconstruct.spilling.description": "武器中的液体溢出到被攻击的目标上，或者当被攻击获得护甲时，会产生基于液体的效果",
 
   "_comment": "Bonus modifier slots",
-  "modifier.tconstruct.creative_slot": "创意槽",
+  "modifier.tconstruct.creative_slot": "创造槽",
   "modifier.tconstruct.creative_slot.flavor": "肮脏的骗子！",
-  "modifier.tconstruct.creative_slot.description": "在额外的修饰符槽中作弊",
+  "modifier.tconstruct.creative_slot.description": "使用作弊获得额外的修饰符槽",
   "modifier.tconstruct.stat_override": "重写数据",
   "modifier.tconstruct.stat_override.flavor": "黑客！",
   "modifier.tconstruct.stat_override.description": "使用命令修改工具数据",
@@ -2483,9 +2483,9 @@
   "jei.tconstruct.alloy.title": "合金化",
 
   "jei.tconstruct.modifiers.title": "修饰符",
-  "jei.tconstruct.modifiers.slot": "修改器需要 1 %s 槽才能应用",
-  "jei.tconstruct.modifiers.slots": "修改器需要 %s %s 个插槽才能应用",
-  "jei.tconstruct.modifiers.free": "不需要修改器槽",
+  "jei.tconstruct.modifiers.slot": "修饰符需要 1 %s 槽才能应用",
+  "jei.tconstruct.modifiers.slots": "修饰符需要 %s %s 个插槽才能应用",
+  "jei.tconstruct.modifiers.free": "无槽修饰符",
   "jei.tconstruct.modifiers.incremental": "配方是增量的，你可以应用部分输入以获得部分效果",
   "jei.tconstruct.modifiers.max": "最大：",
 
